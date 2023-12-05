@@ -19,10 +19,10 @@ Implementation Details
   
 Commands
 
-u <name>: Set the universe center to <name>.
-p <name>: Find the path from <name> to the current center.
-c <#>: List top or bottom centers based on average separation.
-d <low> <high>: List actors sorted by degree within specified range.
-s <low> <high>: List actors by non-infinite separation from the center.
-i: List actors with infinite separation from the current center.
-q: Quit the game.
+- u <name>: Set the universe center to <name>.
+- p <name>: Find the path from <name> to the current center.
+- c <#>: List top or bottom centers based on average separation.
+- d <low> <high>: List actors sorted by degree within specified range.
+- s <low> <high>: List actors by non-infinite separation from the center.
+- i: List actors with infinite separation from the current center.
+- q: Quit the game.
